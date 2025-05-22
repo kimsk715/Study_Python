@@ -1,4 +1,5 @@
-# Study_Python
+# Study - Python
+     
 
 ## Python : 프로그래밍 언어
 
